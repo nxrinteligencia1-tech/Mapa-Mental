@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #fff;
+}
+
+header {
+  background: #9C27B0;
+  color: #fff;
+  padding: 16px;
+  text-align: center;
+}
+
+#notas {
+  padding: 16px;
+}
+
+.card {
+  background: #f5f5f5;
+  border-radius: 16px;
+  padding: 12px;
+  margin-bottom: 12px;
+}
+
+button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #9C27B0;
+  color: #fff;
+  border: none;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  font-size: 24px;
+}
